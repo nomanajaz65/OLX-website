@@ -1,0 +1,47 @@
+.one {
+    margin-left: 40px;
+}
+
+.two{
+    margin-left: 40px;
+
+}
+
+.third{
+    margin-left: 40px;
+}
+
+.cards{
+    /* padding: 200px; */
+    width: 690px;
+    margin: 10px auto;
+
+
+}
+
+.divs{
+    display: inline-block;
+}
+
+.second-div
+{
+    margin-left: 180px;
+    margin-bottom: 70px;
+
+}
+
+.button-s{
+    margin-left: 0px;
+}
+
+.scroll{
+    position: fixed;
+    left: 10%;
+    /* background-color: yellow; */
+}
+
+.cs{
+    color: brown;
+    background-color:  yellowgreen;
+    width: 80px;
+}
